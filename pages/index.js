@@ -1,6 +1,6 @@
 function Home (){
     return(
-        <h1>Lov u</h1>
+        <h1>Lov u hg</h1>
     )
 }
 
